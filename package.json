@@ -1,0 +1,22 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William0112-AC/curso-asincronismo.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "william Aguilar aguilarwilli329\u001bgmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/William0112-AC/curso-asincronismo/issues"
+  },
+  "homepage": "https://github.com/William0112-AC/curso-asincronismo#readme"
+}
